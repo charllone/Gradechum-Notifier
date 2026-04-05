@@ -26,8 +26,6 @@ var CONFIG = {
 };
 ```
 
->**Do not share this file with your credentials filled in.** Your password is stored in plaintext inside the script. Keep the project private, or move credentials to [Script Properties](https://developers.google.com/apps-script/guides/properties) instead.
-
 ### 3. Test it
 
 Run `debugFull()` from the editor to verify login, section fetching, task fetching, and ranking. Run `sendTestEmail()` to preview the email layout with fake data.
