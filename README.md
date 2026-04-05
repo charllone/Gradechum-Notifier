@@ -26,7 +26,7 @@ var CONFIG = {
 };
 ```
 
-> ⚠️ **Do not share this file with your credentials filled in.** Your password is stored in plaintext inside the script. Keep the project private, or move credentials to [Script Properties](https://developers.google.com/apps-script/guides/properties) instead.
+>**Do not share this file with your credentials filled in.** Your password is stored in plaintext inside the script. Keep the project private, or move credentials to [Script Properties](https://developers.google.com/apps-script/guides/properties) instead.
 
 ### 3. Test it
 
