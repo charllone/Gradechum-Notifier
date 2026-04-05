@@ -1,6 +1,6 @@
 # GradeChum Notifier
 
-A Google Apps Script that watches [GradeChum](https://app.gradechum.com) for newly released assessment results and emails you the moment scores drop — including your score, percentage, and class rank.
+A Google Apps Script that watches [GradeChum](https://app.gradechum.com) for newly released assessment results and emails you the moment scores drop it including your score, percentage, and class rank.
 
 ## How it works
 
