@@ -1,0 +1,4 @@
+# Ignore editor/OS clutter
+.vscode/
+*.DS_Store
+Thumbs.db
